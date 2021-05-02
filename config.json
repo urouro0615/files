@@ -1,0 +1,18 @@
+{
+    "bridge": {
+        "name": "Homebridge",
+        "username": "AA:BB:CC:DD:EE:FF",
+        "port": 51826,
+        "pin": "031-45-154"
+    },
+
+    "platforms": [
+    {
+      "platform": "Sesame",
+      "token": "l6q_-npFQCKekT7M_GOONr0vjWAAUGe56W9TzmKP1PhEik5BMApa618UJsruf7RBpGb1SeuNsmOg",
+      "port": 55901,
+      "debug": true,
+      "skip_wait": true
+    }
+    ] 
+}
